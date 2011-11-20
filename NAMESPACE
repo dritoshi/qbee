@@ -1,0 +1,5 @@
+## imports
+import(IRanges)
+import(GenomicRanges)
+
+# importMethodsFrom(GenomicRanges, strand)
